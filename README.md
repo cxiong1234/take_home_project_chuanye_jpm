@@ -23,7 +23,7 @@ Anaconda is the prerequisite
    conda activate chuanye_jpm_project
    ```
 
-Put `census-bureau.data` under `data/raw/` folder
+P.S. Due to GitHub’s file size limitations, the current `.data` file only contains 10000 sample rows for demonstration purposes. Put `census-bureau.data` contains all the information under `data/raw/` folder and replace the current one.
 
 Executing the code
 
