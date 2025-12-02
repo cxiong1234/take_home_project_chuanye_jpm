@@ -1,7 +1,7 @@
 ## Project Overview
 
 This repository implements a complete end-to-end machine learning workflow for predicting income categories (above/below $50,000) and segmenting the U.S. Census demographic dataset.
-It includes data exploration, preprocessing, model training, evaluation, prediction, and segmentation analysis, in the end some marketing recommendations are provided for different group of people.
+It includes data exploration, preprocessing, model training, evaluation, prediction, and segmentation analysis, in the end some marketing recommendations are provided for different group of people. **Please see project Report as Chuanye_Project_Report.pdf.**
 ![Model Architecture](ArchitectureScheme.png)
 ## Folder architecture
 
