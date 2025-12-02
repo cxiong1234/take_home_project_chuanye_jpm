@@ -2,12 +2,12 @@
 
 This repository implements a complete end-to-end machine learning workflow for predicting income categories (above/below $50,000) and segmenting the U.S. Census demographic dataset.
 It includes data exploration, preprocessing, model training, evaluation, prediction, and segmentation analysis, in the end some marketing recommendations are provided for different group of people.
-
+![Model Architecture](ArchitectureScheme.png)
 ## Folder architecture
 
-data/ -> contains all the raw and preprocessed data
-models/ -> contains all the classifier model as .pkl file and the encoder and scaler .pkl
-notebooks/ -> contains all the jupyter notebook file, which is step-by-step analysis of the task
+data/ -> contains all the raw and preprocessed data <br>
+models/ -> contains all the classifier model as .pkl file and the encoder and scaler .pkl <br>
+notebooks/ -> contains all the jupyter notebook file, which is step-by-step analysis of the task <br>
 src/ -> contains the source code .py file
 
 ## Installation of environment
@@ -23,9 +23,9 @@ Anaconda is the prerequisite
    conda activate chuanye_jpm_project
    ```
 
-## Put `census-bureau.data` under `data/raw/` folder
+Put `census-bureau.data` under `data/raw/` folder
 
-## Executing the code
+Executing the code
 
 Training the three classifier models (1. logistic regression; 2. random forest; 3. XGBoost)
 
